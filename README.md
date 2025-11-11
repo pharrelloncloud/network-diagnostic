@@ -4,7 +4,7 @@ This script is a network diagnostic tool that outputs the following.
 ## IP Configuration  
 This is who am I on the network
 
-### Routing Table   
+### Routing Table  
 This is where I send things
 
 ## DNS Test  
